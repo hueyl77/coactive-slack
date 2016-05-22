@@ -1,7 +1,7 @@
 /vendor
 /node_modules
 /public/storage
-/storage
+/storage/logs
 Homestead.yaml
 Homestead.json
 .env
